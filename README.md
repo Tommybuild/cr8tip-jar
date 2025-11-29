@@ -88,7 +88,8 @@ NEXT_PUBLIC_SUPPORTED_TOKENS=...
 
 npm run dev
 
-🧪 How It Works
+
+## 🧪 How It Works
 1. User Opens Miniapp
 
 From a cast, link, or embedded frame.
@@ -109,29 +110,30 @@ Funds are sent directly to the creator’s wallet.
 
 Displays status + a link to the transaction explorer.
 
-🔗 Smart Contract (Optional)
+
+## 🔗 Smart Contract (Optional)
 
 If the project uses a custom contract:
 
-Contract name: TipJar
+- Contract name: TipJar
 
-Purpose: route & record tips
+- Purpose: route & record tips
 
-Events: TipSent(sender, recipient, amount, token)
+- Events: TipSent(sender, recipient, amount, token)
 
-Chain: Base / Celo / Polygon / Any EVM network
+- Chain: Base / Celo / Polygon / Any EVM network
 
-(Share your contract if you want an exact section written.)
+- (Share your contract if you want an exact section written.)
 
-🧭 Roadmap
+## 🧭 Roadmap
 
-Add analytics dashboard
+- Add analytics dashboard
 
-Add recurring tipping (“subscribe to support”)
+- Add recurring tipping (“subscribe to support”)
 
-Allow creators to customize their miniapp
+- Allow creators to customize their miniapp
 
-Add NFT or badge rewards for supporters
+- Add NFT or badge rewards for supporters
 
 🤝 Contributing
 
