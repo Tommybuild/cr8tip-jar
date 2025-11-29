@@ -16,6 +16,7 @@ Tip Jar is a Farcaster Miniapp designed to make tipping as easy as reacting to a
 
 The miniapp is optimized for speed, reliability, and UX simplicity — ideal for creators looking to monetize engagement or communities running reward loops.
 
+
 ## ✨ Features
 
 - One-tap tipping: Simple flow for sending tips directly within Farcaster.
@@ -32,19 +33,20 @@ The miniapp is optimized for speed, reliability, and UX simplicity — ideal for
 
 - Developer-friendly setup with clear configuration and environment variables.
 
-🧱 Tech Stack
 
-Farcaster Miniapps SDK (Mini App Studio or custom build)
+## 🧱 Tech Stack
 
-Next.js / React (if using a web wrapper)
+- Farcaster Miniapps SDK (Mini App Studio or custom build)
 
-Smart contract interactions: Ethers.js / viem
+- Next.js / React (if using a web wrapper)
 
-Hosting: Vercel / Cloudflare / any static host
+- Smart contract interactions: Ethers.js / viem
 
-Optional: A lightweight Solidity contract if the app manages tipping logic
+- Hosting: Vercel / Cloudflare / any static host
 
-📦 Project Structure
+- Optional: A lightweight Solidity contract if the app manages tipping logic
+
+## 📦 Project Structure
 
 (Example — adjust based on your actual project)
 
