@@ -16,11 +16,11 @@ Tip Jar is a Farcaster Miniapp designed to make tipping as easy as reacting to a
 
 The miniapp is optimized for speed, reliability, and UX simplicity — ideal for creators looking to monetize engagement or communities running reward loops.
 
-✨ Features
+## ✨ Features
 
-One-tap tipping: Simple flow for sending tips directly within Farcaster.
+- One-tap tipping: Simple flow for sending tips directly within Farcaster.
 
-Miniapp-native UI: Responsive interface optimized for Warpcast & other clients.
+- Miniapp-native UI: Responsive interface optimized for Warpcast & other clients.
 
 Supports multiple tokens (e.g., USDC, ETH, or any ERC-20 depending on configuration).
 
