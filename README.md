@@ -22,15 +22,15 @@ The miniapp is optimized for speed, reliability, and UX simplicity — ideal for
 
 - Miniapp-native UI: Responsive interface optimized for Warpcast & other clients.
 
-Supports multiple tokens (e.g., USDC, ETH, or any ERC-20 depending on configuration).
+- Supports multiple tokens (e.g., USDC, ETH, or any ERC-20 depending on configuration).
 
-Secure wallet interactions via supported Farcaster wallet integrations.
+- Secure wallet interactions via supported Farcaster wallet integrations.
 
-Transaction history view (optional, depending on integration).
+- Transaction history view (optional, depending on integration).
 
-Customizable Tip Amounts: Pre-set buttons or user-entered values.
+- Customizable Tip Amounts: Pre-set buttons or user-entered values.
 
-Developer-friendly setup with clear configuration and environment variables.
+- Developer-friendly setup with clear configuration and environment variables.
 
 🧱 Tech Stack
 
